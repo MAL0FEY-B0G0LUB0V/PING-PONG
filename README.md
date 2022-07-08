@@ -1,6 +1,11 @@
 
 
-![alt text](https://user-images.githubusercontent.com/106106750/178016970-05bff048-ab23-4fa6-9128-6e206e63cb95.mp4?raw=true)
+
+
 
 # PING-PONG
 My first project in GameDev
+
+
+![alt text](https://user-images.githubusercontent.com/106106750/178017364-f7856ad4-557c-4c4d-a2b4-c4a779128c32.mp4?raw=true)
+
